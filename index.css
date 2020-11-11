@@ -1,0 +1,44 @@
+
+#myimg{
+width: 100%;
+height: 100%;
+opacity: 0.5;
+}
+.intro{
+    padding: 20%;
+}
+
+.intro > h3{
+    color: yellowgreen;
+}
+.intro > a{
+    margin: 10%;
+    padding-top: 30px;
+}
+.subhead{
+    text-align: center;
+    margin: 5%;
+}
+.projcard{
+    height: 300px;
+    width: 100%;
+}
+.project{
+    border-right: 7px solid rgb(0, 255, 13);
+    border-bottom: 10px solid rgb(0, 255, 13);
+    border-radius: 6px;
+    padding: 2%;
+}
+
+.education{
+    border-left: 20px solid rgb(0, 255, 13);
+    border-radius: 25px;
+    margin: 2%;
+}
+.contact{
+    text-align: center;
+    border-bottom: 10px solid rgb(0, 255, 13);
+    border-radius: 5px;
+    padding-bottom: 3%;
+    margin: 0 10% 0 10%;
+}
